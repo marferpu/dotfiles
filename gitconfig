@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = marferpu17@gmail.com
+	name = Marcela Fernandez
